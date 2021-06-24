@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">カラーボタン</string>
+    <string name="red">赤色</string>
+    <string name="blue">青色</string>
+    <string name="yellow">黄色</string>
+    <string name="text">ボタンを押してください</string>
+</resources>
